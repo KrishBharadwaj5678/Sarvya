@@ -13,7 +13,7 @@ function App() {
     <>
       <div className='main'>
         <img src={va} alt="Virtual Assistant" id="saara"/>
-        <span>I'm Saara, Your Advanced Virtual Assistant</span>
+        <span>I'm Sarvya, Your Advanced Virtual Assistant</span>
         {
           !speaking ? 
             <button onClick={()=>{
