@@ -27,7 +27,7 @@ To run **Sarvya** locally, follow the instructions below:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yourusername/sarvya.git
+   git clone https://github.com/KrishBharadwaj5678/Sarvya.git
    cd sarvya
    ```
 
@@ -65,21 +65,8 @@ To run **Sarvya** locally, follow the instructions below:
    yarn dev
    ```
 
-   The app will run at `http://localhost:3000` (or the port specified in your terminal). 🚀
+   The app will run at `http://localhost:5173` (or the port specified in your terminal). 🚀
 
-## Usage 💡
-
-### Interacting with Sarvya 🗣️
-
-- Open the app in your browser. 🌍
-- Sarvya listens to your voice commands and responds accordingly. Just ask a question or request a task. 🎤🤖
-- **Voice interaction** is the core of this assistant, providing you with a hands-free experience. 🖐️
-
-### Task Automation 🛠️
-
-- **Open Google**: Ask Sarvya to open **Google**, and it will navigate you to `https://www.google.com`. 🔍
-- **Open YouTube**: Request Sarvya to open **YouTube**, and it will take you to `https://www.youtube.com`. 🎥
-- **More tasks**: Customize Sarvya to perform other voice-based tasks, such as opening specific websites, launching apps, or even making calls. 📱
 
 ## Contributing 🤝
 
