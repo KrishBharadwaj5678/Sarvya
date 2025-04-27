@@ -5,8 +5,8 @@
 ## Features ✨
 
 - **Voice Recognition**: Understands and processes voice commands. 🎤
-- **Q&A Support**: Answers your questions with AI-generated responses. ❓💬
-- **Task Automation**: Can perform tasks like opening websites. 🌐🔧
+- **Q&A Support**: Answers your questions with AI-generated responses. 💬
+- **Task Automation**: Can perform tasks like opening websites. 🌐
 - **Interactive Voice Interface**: Communicates with the user via voice feedback for a hands-free experience. 🗣️
 - **AI-powered**: Built with **Google GenAI** for smart, accurate, and context-aware responses. 🤖
 
