@@ -74,6 +74,6 @@ We welcome contributions to **Sarvya**! Here's how you can contribute:
 
 1. **Fork the repository**.
 2. **Create a new branch** for your feature or bug fix.
-3. Make your changes and **commit** them. 🔄
-4. **Push** to your forked repository. 📤
-5. **Open a pull request** with a detailed explanation of your changes. 🔧
+3. Make your changes and **commit** them. 
+4. **Push** to your forked repository. 
+5. **Open a pull request** with a detailed explanation of your changes. 
