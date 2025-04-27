@@ -1,12 +1,12 @@
 # Sarvya: Your Voice Assistant 🎙️🤖
 
-**Sarvya** is an AI-powered voice assistant that can answer your questions, assist with tasks, and automate simple actions using voice commands. Built with the latest technologies, Sarvya provides fast, accurate, and hands-free interaction for an enhanced user experience. 🎧✨
+**Sarvya** is an AI-powered voice assistant that can answer your questions, assist with tasks, and automate simple actions using voice commands. 🎧✨
 
 ## Features ✨
 
 - **Voice Recognition**: Understands and processes voice commands. 🎤
 - **Q&A Support**: Answers your questions with AI-generated responses. ❓💬
-- **Task Automation**: Can perform tasks like opening websites (e.g., Google, YouTube), making calls, and more. 🌐🔧
+- **Task Automation**: Can perform tasks like opening websites. 🌐🔧
 - **Interactive Voice Interface**: Communicates with the user via voice feedback for a hands-free experience. 🗣️
 - **AI-powered**: Built with **Google GenAI** for smart, accurate, and context-aware responses. 🤖
 
@@ -21,12 +21,6 @@
 ## Installation 📥
 
 To run **Sarvya** locally, follow the instructions below:
-
-### Prerequisites ⚙️
-
-- **Node.js** (>= 14.x)
-- **Vite** (for fast development)
-- **NPM** (or **Yarn**)
 
 ### Steps 🔽
 
