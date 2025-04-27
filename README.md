@@ -1,4 +1,4 @@
-# Sarvya: Your Voice Assistant 🎙️
+# Sarvya - Your Voice Assistant 🎙️
 
 **Sarvya** is an AI-powered voice assistant that can answer your questions, assist with tasks, and automate simple actions using voice commands. 
 
