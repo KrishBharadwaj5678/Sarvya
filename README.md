@@ -77,7 +77,3 @@ We welcome contributions to **Sarvya**! Here's how you can contribute:
 3. Make your changes and **commit** them. 🔄
 4. **Push** to your forked repository. 📤
 5. **Open a pull request** with a detailed explanation of your changes. 🔧
-
-## License 📜
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details. 📂
