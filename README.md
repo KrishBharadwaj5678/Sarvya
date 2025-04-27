@@ -6,8 +6,7 @@
 
 - **Natural Language Processing (NLP)**: Understands and processes user input in natural language. 🧠
 - **Q&A Support**: Provides answers to general knowledge questions. 📚❓
-- **Task Automation**: Can perform tasks like opening websites (e.g., Google, YouTube) or other predefined actions. 🌐🔧
-- **Interactive Chat Interface**: Engages users with an easy-to-use, clean interface. 💬
+- **Task Automation**: Can perform tasks like opening websites. 🌐🔧
 - **AI-powered**: Built with **Google GenAI** for smart and context-aware responses. 🤖
 
 ## Tech Stack 🛠️
@@ -20,12 +19,6 @@
 ## Installation 📥
 
 To run **Sarvya** locally, follow the instructions below:
-
-### Prerequisites ⚙️
-
-- **Node.js** (>= 14.x)
-- **Vite** (for fast development)
-- **NPM** (or **Yarn**)
 
 ### Steps 🔽
 
