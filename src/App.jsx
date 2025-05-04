@@ -1,10 +1,10 @@
-import { useState, useContext } from 'react'
+import { useState, useContext } from 'react';
 import "./App.css";
-import va from "./assets/ai.png"
+import va from "./assets/ai.png";
 import { CiMicrophoneOn } from "react-icons/ci";
-import {datacontext} from "./context/UserContext"
-import Speak from "./assets/speak.gif"
-import aiVoice from "./assets/aiVoice.gif"
+import {datacontext} from "./context/UserContext";
+import Speak from "./assets/speak.gif";
+import aiVoice from "./assets/aiVoice.gif";
 
 function App() {
   let {recognition,speaking,setSpeaking,prompt,setPrompt,response,setResponse} = useContext(datacontext);
