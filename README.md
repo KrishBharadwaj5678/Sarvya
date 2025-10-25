@@ -4,19 +4,23 @@
 
 ## Features ✨
 
-- **Voice Recognition**: Understands and processes voice commands. 🎤
-- **Q&A Support**: Answers your questions with AI-generated responses. 💬
-- **Task Automation**: Can perform tasks like opening websites. 🌐
-- **Interactive Voice Interface**: Communicates with the user via voice feedback for a hands-free experience. 🗣️
-- **AI-powered**: Built with **Google GenAI** for smart, accurate, and context-aware responses. 🤖
+| Feature                         | Description                                                                   |
+| ------------------------------- | ----------------------------------------------------------------------------- |
+| **🎤 Voice Recognition**           | Understands and processes voice commands.                                     |   
+| **💬 Q&A Support**                 | Answers your questions with AI-generated responses.                           |    
+| **🌐 Task Automation**             | Can perform tasks like opening websites.                                      |  
+| **🗣️ Interactive Voice Interface** | Communicates with the user via voice feedback for a hands-free experience.    |   
+| **🤖 AI-powered**                  | Built with **Google GenAI** for smart, accurate, and context-aware responses. |   
 
 ## Tech Stack 🛠️
 
-- **ReactJS**: JavaScript library for building the user interface. ⚛️
-- **CSS**: Styling the app with custom styles. 🎨
-- **Google GenAI**: AI model used for generating intelligent responses. 🧠
-- **Vite**: Development build tool for fast, optimized builds. ⚡
-- **Web Speech API**: Enables voice recognition and synthesis for real-time voice interaction. 🎙️
+| Technology | Description |
+|-------------|--------------|
+| **⚛️ ReactJS** | JavaScript library for building the user interface. | 
+| **🎨 CSS** | Styling the app with custom styles. | 
+| **🧠 Google GenAI** | AI model used for generating intelligent responses. | 
+| **⚡Vite** | Development build tool for fast, optimized builds. |  
+| **🎙️ Web Speech API** | Enables voice recognition and synthesis for real-time voice interaction. |  
 
 ## Installation 📥
 
