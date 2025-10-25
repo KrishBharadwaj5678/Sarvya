@@ -2,6 +2,8 @@
 
 **Sarvya** is an AI-powered voice assistant that can answer your questions, assist with tasks, and automate simple actions using voice commands. 
 
+![Sarvya](https://github.com/KrishBharadwaj5678/Sarvya/raw/main/SarvyaDemo.png)
+
 ## Features ✨
 
 | Feature                         | Description                                                                   |
